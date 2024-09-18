@@ -23,15 +23,15 @@ Trial projects are designed to be challenging, so don’t worry if you find it d
 
 # Project Specification
 
-Your task is to create a social media campaign to generate leads for our Generative AI services by driving qualified and relevant traffic to an interactive scorecard app that measures a businesses readiness to adopt Generative AI.
+Your task is to create a social media campaign to publicise a free, interactive scorecard web application that helps a decision-maker within a business understand their readiness to adopt Generative AI. The app collects details of the person completing the scorecard and their details, along with the outcome of the scorecard exercise, are automatically sent to our Hubspot CRM system as leads for our sales team to follow-up on.
 
 <img src="https://images.squarespace-cdn.com/content/v1/63b6c9e3cbf92e7d56375d12/3701bc56-6cef-40c1-b71a-cd556a358f8b/quiz.jpg?format=500w">
 
-We want to focus on LinkedIn or another B2B platform to target decision-makers in relevant industries and geographies.
+We want to run this campaing on LinkedIn or another B2B platform to target decision-makers in relevant industries and geographies.
 
 The campaign should:
 - Run for one week
-- Aim to promote and encourage use of the scorecard app to collect leads for our Gen AI services
+- Raise awareness of the need for businesses to plan their approach to Generative AI and to assess their current readiness using this web application
 - Leverage current trends in Generative AI and the contents of the scorecard and our website to increase engagement
 
 ## What We Are Looking For in Terms of Deliverables
@@ -64,14 +64,14 @@ Our social media accounts:
 - [Blog]([https://rittmananalytics.com/blog](https://www.rittmananalytics.com/blog/category/Artificial+Intelligence)
 - [Generative AI Services](https://www.rittmananalytics.com/offers/artificial-intelligence)
 
-The leadgen app that will collect the leads and be the measure of conversion success for the campaign
+The leadgen scorecard app that you will be promoting:
 - [Discover Your Readiness for GenAI adoption - Take the Quiz!](https://go.rittmananalytics.com/genai) 
 
-The package you are promoting:
+The package that the scorecard app is generating leads for:
 - [Generative AI "Data to AI" Quickstart Package](https://www.rittmananalytics.com/blog/2024/8/2/is-your-business-ready-and-enabled-for-generative-ai)
 
-You are encouraged to use public resources and free tools, but make sure the deliverables are practical and relevant to the objectives.
+You are encouraged to use public resources, content on our website and the scorecard and free tools and services.
 
 ## Submission
 
-Please upload your project deliverables (Google Doc, mock posts, any additional resources) within 7 days of receiving the task.
+Please provide a link to your project deliverables (Google Doc, mock posts, any additional resources) using TeamTailor within 7 days of receiving the task, and we will then schedule a one-hour call with you so that you can present your proposed campaign to us.
