@@ -7,7 +7,7 @@ This trial project simulates real-world working conditions as a marketing intern
 
 ## What are trial projects?
 
-Trial projects are short (usually between 5-6 hours), fully-paid projects designed to resemble the work you would do at Rittman Analytics. The deliverables are for evaluative purposes only and are not used for our actual marketing efforts. We pay £14.50/hour (£87) for a six-hour trial) within 30 days to your PayPal email or UK bank account.
+Trial projects are short (4-6 hours), fully-paid projects designed to resemble the work you would do at Rittman Analytics. The deliverables are for evaluative purposes only and are not used for our actual marketing efforts. We pay £14.50/hour (£87) for a six-hour trial within 30 days to your PayPal email or UK bank account.
 
 Please note that we typically have multiple candidates completing trial projects. Performance on the trial informs decisions about proceeding to the next stage of the process, though there is no guarantee of a permanent offer.
 
@@ -38,16 +38,17 @@ The campaign should:
 
 1. **Target Audience & Key Messages**
    - Identify the target audience for the campaign (e.g., CIOs, CTOs, Data Scientists).
-   - Define the primary message and secondary messages for each post, ensuring alignment with the goal of generating leads for the Quickstart package.
+   - Define the primary message and secondary messages for each post, ensuring alignment with the goal of generating completions of the scorecard app.
 
 2. **Campaign Schedule**
    - Develop a detailed schedule for a week-long campaign.
    - Outline the content, messaging, and posting frequency across LinkedIn or your chosen platform.
    - Include rationale for the scheduling strategy and timing.
+   - Outline any follow-up messaging or other means you might use to drive engagement and completion of the web app.
 
 3. **Mock Posts**
    - Create 1-2 mock posts with copy and visuals. The visuals can be simple (you may use tools like Canva or Google Slides for this purpose).
-   - These posts should promote the benefits of the "Discover Your Readiness for GenAI adoption" scorecard app and the "Data to AI" Quickstart package and provide a clear CTA (e.g., "Book a Consultation").
+   - These posts should promote the benefits of the "Discover Your Readiness for GenAI adoption" scorecard app and and provide a clear CTA.
 
 4. **Incorporating Industry Trends**
    - Research and incorporate recent digital marketing, social media and industrty trends to maximize engagement.
