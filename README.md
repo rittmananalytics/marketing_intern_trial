@@ -23,9 +23,9 @@ Trial projects are designed to be challenging, so don’t worry if you find it d
 
 # Project Specification
 
-Your task is to create a social media campaign to publicise a free, interactive scorecard web application that helps a decision-maker within a business understand their readiness to adopt Generative AI. The app collects details of the person completing the scorecard and their details, along with the outcome of the scorecard exercise, are automatically sent to our Hubspot CRM system as leads for our sales team to follow-up on.
+Your task is to create a social media campaign to publicise a free, interactive scorecard web application that helps a decision-maker within a business understand their readiness to adopt Generative AI and collects leads for our Data to AI consulting package.
 
-<img src="https://images.squarespace-cdn.com/content/v1/63b6c9e3cbf92e7d56375d12/3701bc56-6cef-40c1-b71a-cd556a358f8b/quiz.jpg?format=500w">
+<a href="https://go.rittmananalytics.com/genai"><img src="https://images.squarespace-cdn.com/content/v1/63b6c9e3cbf92e7d56375d12/3701bc56-6cef-40c1-b71a-cd556a358f8b/quiz.jpg?format=500w"></a>
 
 We want to run this campaing on LinkedIn or another B2B platform to target decision-makers in relevant industries and geographies.
 
