@@ -62,7 +62,7 @@ The campaign should:
 Our social media accounts:
 - [Twitter](https://twitter.com/rittmananalytic)
 - [LinkedIn](https://www.linkedin.com/company/rittmananalytics/)
-- [Blog](https://www.rittmananalytics.com/blog/category/Artificial+Intelligence)
+- [Blog Articles on Generative AI](https://www.rittmananalytics.com/blog/category/Artificial+Intelligence)
 - [Generative AI Services](https://www.rittmananalytics.com/offers/artificial-intelligence)
 
 The leadgen scorecard app that you will be promoting:
