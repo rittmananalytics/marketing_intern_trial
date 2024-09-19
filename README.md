@@ -1,75 +1,78 @@
-# Introduction
+## Marketing Campaign Brief
+
+### Introduction
 
 This trial project simulates real-world working conditions as a marketing intern as closely as possible by:
-- Covering the end-to-end process of developing and executing a social media and email marketing campaign
-- Using services, data, and tools similar to or the same as we use on marketing campaigns
+- Covering the end-to-end process of developing and executing a marketing campaign
+- Using services, data, and tools similar to those we use on our actual marketing campaigns
 - Providing practical deliverables to evaluate your marketing and strategic thinking.
 
-## What are trial projects?
+### What are trial projects?
 
 Trial projects are short (4-6 hours), fully-paid projects designed to resemble the work you would do at Rittman Analytics. The deliverables are for evaluative purposes only and are not used for our actual marketing efforts. We pay £14.50/hour (£87) for a six-hour trial, paid within 30 days to your PayPal email or UK bank account.
 
 Please note that we typically have multiple candidates completing trial projects. Performance on the trial informs decisions about proceeding to the next stage, though there is no guarantee of a permanent offer.
 
-Trial projects are designed to be challenging, so don’t worry if you find it difficult to finish everything within the specified time. Just prioritize accordingly and give it your best effort.
+Trial projects are designed to be challenging, so don’t worry if you find it difficult to finish everything within the specified time. Prioritize accordingly and give it your best effort.
 
-## Guidance Notes
+### Guidance Notes
 
 - Please spend no more than a total of 6 hours on this trial.
-- If you don't finish within those 6 hours, please submit what you have completed.
+- If you don't finish within those 6 hours, submit what you have completed.
 - If you have questions along the way, feel free to ask.
-- Please summarize your campaign proposal in a Google Slides deck that’s publicly viewable and share the link via TeamTailor.
+- Summarize your campaign proposal in a Google Slides deck that’s publicly viewable and share the link via TeamTailor.
 - Provide your PayPal email using TeamTailor when submitting your campaign proposal so that we can pay you for your time.
 
-# Project Specification
+---
 
-Your task is to create a marketing campaign that uses social media to encourage completions of a free, interactive scorecard web application to helps a decision-maker within a business understand their readiness to adopt Generative AI, captures their lead details and scorecard outcome and sends a series of follow-up automated emails to convert those leads into into booked sales meetings.
+## Project Specification
 
-<a href="https://go.rittmananalytics.com/genai"><img src="https://images.squarespace-cdn.com/content/v1/63b6c9e3cbf92e7d56375d12/3701bc56-6cef-40c1-b71a-cd556a358f8b/quiz.jpg?format=500w"></a>
+### The Business Problem
 
-We want to run this campaign on LinkedIn or another B2B platform to target decision-makers in relevant industries and geographies; assume Hubspot, Mailchimp or a similar email marketing services would be used for the automated email follow-up.
+Rittman Analytics has developed a **free, interactive scorecard web application** to help businesses assess their readiness to adopt **Generative AI**. This tool is designed to assist decision-makers in evaluating where their organization stands in terms of AI capabilities and identifying steps to improve their AI readiness.
 
-The campaign should:
-- Run for one week
-- Raise awareness of the need for businesses to plan their approach to Generative AI and assess their current readiness using this web application
-- Leverage current trends in Generative AI and the contents of the scorecard and our website to increase engagement
-- Have the initial objective of collecting leads through the scorecard, and the second objective of converting those leads into meeting bookings to discuss our Generative AI services
+Despite the growing interest in AI and the value the scorecard offers, we are facing a challenge in generating sufficient awareness and engagement from our target audience, particularly in terms of driving **completions of the scorecard** and **converting leads into sales meetings**.
 
-## What We Are Looking For in Terms of Deliverables
+We need to build a marketing campaign that effectively reaches and engages the right decision-makers in key industries, encourages them to complete the scorecard, and then converts those leads into meetings with our sales team to discuss our AI-related services.
 
-1. **Target Audience & Key Messages**
-   - Identify the target audience for the campaign (e.g., CIOs, CTOs, Data Scientists).
-   - Define the primary message and secondary messages for each post, ensuring alignment with the goal of generating completions of the scorecard app
-   - Define the primary message and secondary messages for each follow-up email, ensuring alignment with the goal of booking the discovery meeting
+### Your Task
+
+Design a marketing campaign that addresses the business problem outlined above and utilizes the digital channels we commonly use at Rittman Analytics. The campaign should aim to:
+
+1. **Raise awareness** of the importance of businesses assessing their readiness to adopt Generative AI.
+2. **Drive engagement** with the scorecard tool, encouraging decision-makers to complete the assessment.
+3. **Convert leads** captured by the scorecard into booked meetings to discuss our Generative AI services.
+
+### Deliverables
+
+1. **Campaign Strategy**
+   - Identify the **target audience** (e.g., specific job titles, industries, company sizes).
+   - Define the **core messaging** that will resonate with this audience and drive them to complete the scorecard.
+   - Outline how you plan to use the digital channels available (e.g., LinkedIn, email, website) to promote the scorecard and generate leads.
+
+2. **Campaign Plan**
+   - Propose a detailed campaign plan, including the digital channels, content strategy, and frequency of engagement (posts, emails, etc.).
+   - Include ideas for **social media posts**, **email marketing sequences**, and any **landing page** suggestions you think will optimize the conversion process.
+
+3. **Lead Conversion Tactics**
+   - Describe how you will nurture leads captured through the scorecard and convert them into booked meetings. This can include a series of follow-up emails, retargeting ads, or other marketing automation techniques.
+
+4. **Industry Trends and Best Practices**
+   - Research and incorporate current trends in digital marketing and Generative AI adoption to ensure the campaign is relevant, engaging, and timely.
+
+5. **Performance Metrics**
+   - Propose key performance indicators (KPIs) to track throughout the campaign. These could include metrics such as engagement rates, lead conversion rates, or scorecard completion rates.
+
+### Digital Channels & Tools Available
+
+We primarily use the following channels and tools for our campaigns:
+- **LinkedIn**: Our main platform for B2B engagement and content distribution.
+- **Email Marketing**: HubSpot or Mailchimp to automate follow-up email sequences.
+- **Website & Landing Pages**: Hosting and promoting content through our website, including blogs and lead-generation tools.
   
-2. **Originality, Creativity and Likelihood of Success**
-   - We work with AI technologies every day and already know how to use ChatGPT to create marketing campaigns - or automate the creation of trial project submissions in just a few minutes.
-   - We're looking for evidence that you can devise a campaign that's original, stands-out from every other leadgen marketing campaign and demonstrates creativity, empathy for our audience and has strong call-to-actions.
-   - Include examples of copy and artwork that aligns with our tone of voice and gets the attention of our audience, increases our lead capture and conversion rates and increases our brand equity.
+Feel free to suggest additional channels or strategies you think would be effective based on the target audience and business problem.
 
-3. **Campaign Schedule**
-   - Develop a detailed schedule for a week-long campaign.
-   - Outline the content, messaging, and posting frequency across LinkedIn or your chosen platform.
-   - Include rationale for the scheduling strategy and timing.
-   - Detail any follow-up messaging or other means you might use to drive engagement and completion of the web app.
-   - Create a email sequence to convert those leads into meeting bookings
-
-4. **Mock Posts**
-   - Create 1-2 mock posts using Google Slides or Canva, including both copy and visuals.
-   - These posts should promote the benefits of the "Discover Your Readiness for GenAI adoption" scorecard app and provide a clear CTA.
-  
-5. **Lead Conversion**
-   - Develop a sequence of 3 mock marketing emails that would be sent to each lead captured by the scorecard app, including both copy and visuals.
-   - These emails can make use of data entered by the lead into the scorecard app, and have the goal of converting the lead into a meeting booking to discuss the outcome of the scorecard and our Gen AI services.
-
-6. **Incorporating Industry Trends**
-   - Research and incorporate recent digital marketing, social media, and industry trends to maximize engagement.
-   - Suggest how these can be integrated into the campaign to drive conversations and increase visibility.
-
-7. **Performance Metrics**
-   - Identify key performance indicators (KPIs) that should be tracked to measure the success of the campaign (e.g., CTR, lead generation, engagement and conversion rates).
-
-## Reference Material
+### Reference Material
 
 Our social media accounts:
 - [Twitter](https://twitter.com/rittmananalytic)
@@ -78,13 +81,13 @@ Our social media accounts:
 - [Generative AI Services](https://www.rittmananalytics.com/offers/artificial-intelligence)
 
 The leadgen scorecard app that you will be promoting:
-- [Discover Your Readiness for GenAI adoption - Take the Quiz!](https://go.rittmananalytics.com/genai) 
+- [Discover Your Readiness for GenAI adoption - Take the Quiz!](https://go.rittmananalytics.com/genai)
 
 The package that the scorecard app is generating leads for:
 - [Generative AI "Data to AI" Quickstart Package](https://www.rittmananalytics.com/blog/2024/8/2/is-your-business-ready-and-enabled-for-generative-ai)
 
 You are encouraged to use public resources, content on our website, and free tools and services.
 
-## Submission
+### Submission
 
-Please provide a link to your project deliverables (Google Slides, mock posts, any additional resources) using TeamTailor within 7 days of receiving the task. We will then schedule a one-hour call with you so that you can present your proposed campaign to us.
+Please provide a link to your project deliverables (Google Slides, mock posts, any additional resources) using TeamTailor within 7 days of receiving the task. We will then schedule a one-hour call with you to present your proposed campaign.
