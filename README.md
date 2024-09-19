@@ -1,7 +1,7 @@
 # Introduction
 
 This trial project simulates real-world working conditions as a marketing intern as closely as possible by:
-- Covering the end-to-end process of developing and executing a social media campaign
+- Covering the end-to-end process of developing and executing a social media and email marketing campaign
 - Using services, data, and tools similar to or the same as we use on marketing campaigns
 - Providing practical deliverables to evaluate your marketing and strategic thinking.
 
@@ -23,16 +23,17 @@ Trial projects are designed to be challenging, so don’t worry if you find it d
 
 # Project Specification
 
-Your task is to create a social media campaign to publicize a free, interactive scorecard web application that helps a decision-maker within a business understand their readiness to adopt Generative AI and collects leads for our Data to AI consulting package.
+Your task is to create a social media campaign to publicize a free, interactive scorecard web application that helps a decision-maker within a business understand their readiness to adopt Generative AI, along with a follow-up automated email sequence with a goal of converting leads captured by the scorecard app into booked meetings to discuss our Gen AI services.
 
 <a href="https://go.rittmananalytics.com/genai"><img src="https://images.squarespace-cdn.com/content/v1/63b6c9e3cbf92e7d56375d12/3701bc56-6cef-40c1-b71a-cd556a358f8b/quiz.jpg?format=500w"></a>
 
-We want to run this campaign on LinkedIn or another B2B platform to target decision-makers in relevant industries and geographies.
+We want to run this campaign on LinkedIn or another B2B platform to target decision-makers in relevant industries and geographies; assume Hubspot, Mailchimp or a similar email marketing services for the automated email follow-up.
 
 The campaign should:
 - Run for one week
 - Raise awareness of the need for businesses to plan their approach to Generative AI and assess their current readiness using this web application
 - Leverage current trends in Generative AI and the contents of the scorecard and our website to increase engagement
+- Have the initial objective of collecting leads through the scorecard, and the second objective of converting those leads into meeting bookings to discuss our Generative AI services
 
 ## What We Are Looking For in Terms of Deliverables
 
@@ -44,18 +45,23 @@ The campaign should:
    - Develop a detailed schedule for a week-long campaign.
    - Outline the content, messaging, and posting frequency across LinkedIn or your chosen platform.
    - Include rationale for the scheduling strategy and timing.
-   - Outline any follow-up messaging or other means you might use to drive engagement and completion of the web app.
+   - Detail any follow-up messaging or other means you might use to drive engagement and completion of the web app.
+   - Create a email sequence to convert those leads into meeting bookings
 
 3. **Mock Posts**
    - Create 1-2 mock posts using Google Slides or Canva, including both copy and visuals.
    - These posts should promote the benefits of the "Discover Your Readiness for GenAI adoption" scorecard app and provide a clear CTA.
+  
+5. **Lead Conversion**
+   - Develop a sequence of 3 mock marketing emails that would be sent to each lead captured by the scorecard app, including both copy and visuals.
+   - These emails can make use of data entered by the lead into the scorecard app, and have the goal of converting the lead into a meeting booking to discuss the outcome of the scorecard and our Gen AI services.
 
-4. **Incorporating Industry Trends**
+6. **Incorporating Industry Trends**
    - Research and incorporate recent digital marketing, social media, and industry trends to maximize engagement.
    - Suggest how these can be integrated into the campaign to drive conversations and increase visibility.
 
-5. **Performance Metrics**
-   - Identify key performance indicators (KPIs) that should be tracked to measure the success of the campaign (e.g., CTR, lead generation, engagement rates).
+7. **Performance Metrics**
+   - Identify key performance indicators (KPIs) that should be tracked to measure the success of the campaign (e.g., CTR, lead generation, engagement and conversion rates).
 
 ## Reference Material
 
