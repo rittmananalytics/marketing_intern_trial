@@ -23,11 +23,11 @@ Trial projects are designed to be challenging, so don’t worry if you find it d
 
 # Project Specification
 
-Your task is to create a social media campaign to publicize a free, interactive scorecard web application that helps a decision-maker within a business understand their readiness to adopt Generative AI, along with a follow-up automated email sequence with a goal of converting leads captured by the scorecard app into booked meetings to discuss our Gen AI services.
+Your task is to create a marketing campaign that uses social media to publicize a free, interactive scorecard web application that helps a decision-maker within a business understand their readiness to adopt Generative AI, then uses a follow-up automated email sequence that aims to convert leads captured by the scorecard app into booked sales meetings.
 
 <a href="https://go.rittmananalytics.com/genai"><img src="https://images.squarespace-cdn.com/content/v1/63b6c9e3cbf92e7d56375d12/3701bc56-6cef-40c1-b71a-cd556a358f8b/quiz.jpg?format=500w"></a>
 
-We want to run this campaign on LinkedIn or another B2B platform to target decision-makers in relevant industries and geographies; assume Hubspot, Mailchimp or a similar email marketing services for the automated email follow-up.
+We want to run this campaign on LinkedIn or another B2B platform to target decision-makers in relevant industries and geographies; assume Hubspot, Mailchimp or a similar email marketing services would be used for the automated email follow-up.
 
 The campaign should:
 - Run for one week
