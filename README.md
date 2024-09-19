@@ -23,7 +23,7 @@ Trial projects are designed to be challenging, so don’t worry if you find it d
 
 # Project Specification
 
-Your task is to create a marketing campaign that uses social media to publicize a free, interactive scorecard web application that helps a decision-maker within a business understand their readiness to adopt Generative AI, then uses a follow-up automated email sequence that aims to convert leads captured by the scorecard app into booked sales meetings.
+Your task is to create a marketing campaign that uses social media to encourage completions of a free, interactive scorecard web application to helps a decision-maker within a business understand their readiness to adopt Generative AI, captures their lead details and scorecard outcome and sends a series of follow-up automated emails to convert those leads into into booked sales meetings.
 
 <a href="https://go.rittmananalytics.com/genai"><img src="https://images.squarespace-cdn.com/content/v1/63b6c9e3cbf92e7d56375d12/3701bc56-6cef-40c1-b71a-cd556a358f8b/quiz.jpg?format=500w"></a>
 
@@ -39,16 +39,22 @@ The campaign should:
 
 1. **Target Audience & Key Messages**
    - Identify the target audience for the campaign (e.g., CIOs, CTOs, Data Scientists).
-   - Define the primary message and secondary messages for each post, ensuring alignment with the goal of generating completions of the scorecard app.
+   - Define the primary message and secondary messages for each post, ensuring alignment with the goal of generating completions of the scorecard app
+   - Define the primary message and secondary messages for each follow-up email, ensuring alignment with the goal of booking the discovery meeting
+  
+2. **Originality, Creativity and Likelihood of Success**
+   - We work with AI technologies every day and already know how to use ChatGPT to create marketing campaigns - or automate the creation of trial project submissions in just a few minutes.
+   - We're looking for evidence that you can devise a campaign that's original, stands-out from every other leadgen marketing campaign and demonstrates creativity, empathy for our audience and has strong call-to-actions.
+   - Include examples of copy and artwork that aligns with our tone of voice and gets the attention of our audience, increases our lead capture and conversion rates and increases our brand equity.
 
-2. **Campaign Schedule**
+3. **Campaign Schedule**
    - Develop a detailed schedule for a week-long campaign.
    - Outline the content, messaging, and posting frequency across LinkedIn or your chosen platform.
    - Include rationale for the scheduling strategy and timing.
    - Detail any follow-up messaging or other means you might use to drive engagement and completion of the web app.
    - Create a email sequence to convert those leads into meeting bookings
 
-3. **Mock Posts**
+4. **Mock Posts**
    - Create 1-2 mock posts using Google Slides or Canva, including both copy and visuals.
    - These posts should promote the benefits of the "Discover Your Readiness for GenAI adoption" scorecard app and provide a clear CTA.
   
