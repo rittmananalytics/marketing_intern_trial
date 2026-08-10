@@ -98,7 +98,8 @@ Design a marketing campaign that promotes Wire using the digital channels we com
 3. **Lead Conversion Tactics**
 
   - Explain how you would move someone from first seeing a post to booking a call. Follow-up emails, retargeting ads, automation, whatever you think fits.
-    
+  - Note a genuine gap. Clicking either button on the Wire page opens a booking dialog for a 30-minute call. That works well for a person who is ready to talk to us. It offers nothing to a person who is interested but not yet willing to give half an hour to a stranger, and that is most people who visit. Tell us what you think should exist for them.
+
 4. **Industry Trends and Best Practices**
 
   - Show that you have looked into what is currently happening in B2B marketing and in AI tools for software teams. Use what you find to make the campaign feel timely rather than generic. Twenty minutes of reading is enough. We are looking for evidence of curiosity, not a literature review.
